@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+}
+
+h1{
+    margin-bottom: 100px;
+}
+
+table{
+
+    margin: auto;
+    border : 1px solid black;
+    border-collapse: collapse;
+    
+}
+
+th, td{
+    border : 1px solid black;
+    width : 20px;
+    height : 20px;
+}
+
+canvas {
+     background: rgb(238, 238, 238); display: block; margin: 0 auto; 
+     width:600px;
+     height:600px;
+    }
